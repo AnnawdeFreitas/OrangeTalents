@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background: rgba(0, 77, 153, 0.6);
+	border: 5px solid #000000;
+	margin: 200px 500px 0px 500px;
+	border-radius: 125px;
+	position:relative;
+	text-align: center;
+	font-weight: bold;
+}
+
+.fundo {
+	background-color: #ff8000;
+	margin-top: 50;
+	margin-bottom: 50;
+	margin-left: 50;
+	margin-right: 50;
+	padding: 30;
+	position: absolute;
+	top: 20%;
+	left: 30%;
+	right: 30%;
+	color: #000000;
+}
